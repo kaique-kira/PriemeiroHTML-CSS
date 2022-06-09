@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=My+Soul&family=Righteous&display=swap');
+
+.cabecalho {
+    text-align: center;
+    font-style: bold;
+    color: #F2C24E;
+    font-family: 'My Soul', cursive;
+    padding: 30px;}
+
+body {
+    background: #3d3356;
+    padding: 30px;
+    font-family: 'Righteous', cursive;
+}
+
+#gambit {
+    width: 100%;
+}
+
+.titulo {
+    text-align: center;
+    border: 10px solid #F2C24E;
+    padding: 20px;
+    margin: 40px;
+    color: white;
+    font-family: 'Righteous', cursive;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: 'Righteous', cursive;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#sombras {
+    font-size: 30px;
+}
+
+#missao {
+    font-size: 30px;
+}
+
+em strong {
+    color: #F2C24E
+}
+
+.missao {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    margin-right: 15%;
+    padding: 30px;
+}
+
+.lista {
+
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    margin-top: auto;
+    text-align: left;
+    font-family: 'Righteous', cursive;
+}
+
+.imgcontato {
+    width: 50%;
+}
